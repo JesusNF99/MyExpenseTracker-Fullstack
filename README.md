@@ -22,7 +22,7 @@ This application provides a comprehensive solution for expense tracking, featuri
 * **Spring Data JPA:** Persistence layer with relational mapping.
 * **H2 Database:** In-memory database for high-speed development and testing.
 * **SpringDoc OpenAPI (v3.0.2):** Automated REST API documentation (Swagger UI).
-* **Lombok & Validation:** Boilerplate reduction and robust server-side data validation.
+* **Validation:** Robust server-side data validation.
 
 **Frontend (The Interface):**
 * **React 19** + **Vite 7**: Ultra-fast development using the latest React features.
